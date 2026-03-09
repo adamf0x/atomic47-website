@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/atomic47-website/static/css/main.f7880b50.css",
-    "main.js": "/atomic47-website/static/js/main.14c5cd99.js",
+    "main.css": "/atomic47-website/static/css/main.e260d30d.css",
+    "main.js": "/atomic47-website/static/js/main.bb3f7c55.js",
     "static/js/453.7fc3d548.chunk.js": "/atomic47-website/static/js/453.7fc3d548.chunk.js",
     "static/media/tools.gif": "/atomic47-website/static/media/tools.66370b249b62d15e993c.gif",
     "static/media/magnifier.gif": "/atomic47-website/static/media/magnifier.8d31e1ff9ea132325138.gif",
@@ -11,12 +11,12 @@
     "static/media/LODE-Grey.svg": "/atomic47-website/static/media/LODE-Grey.18eff5a85517a10995c1f1d1fb1ce7b6.svg",
     "index.html": "/atomic47-website/index.html",
     "static/media/a47-symbolmark.svg": "/atomic47-website/static/media/a47-symbolmark.653f973aec03ad734fbe5976b154d8ce.svg",
-    "main.f7880b50.css.map": "/atomic47-website/static/css/main.f7880b50.css.map",
-    "main.14c5cd99.js.map": "/atomic47-website/static/js/main.14c5cd99.js.map",
+    "main.e260d30d.css.map": "/atomic47-website/static/css/main.e260d30d.css.map",
+    "main.bb3f7c55.js.map": "/atomic47-website/static/js/main.bb3f7c55.js.map",
     "453.7fc3d548.chunk.js.map": "/atomic47-website/static/js/453.7fc3d548.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7880b50.css",
-    "static/js/main.14c5cd99.js"
+    "static/css/main.e260d30d.css",
+    "static/js/main.bb3f7c55.js"
   ]
 }
