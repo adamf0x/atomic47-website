@@ -9,7 +9,7 @@ const ContactForm = (props: any) => {
       </div>
       <form
         method="POST"
-        action="https://formspree.io/f/xknkpdyj"
+        action=""
         className="contact-form two-line"
       >
         <div className="input-container-outer">
